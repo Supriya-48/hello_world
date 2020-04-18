@@ -1,2 +1,2 @@
 # hello_world
-first repostitory
+first repostitory to learn git
